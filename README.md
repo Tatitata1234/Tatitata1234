@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tatitata1234
 - 👀 I’m interested in plants
-- 🌱 I’m currently learning java/dart
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on interesting projects
 
 <!---
